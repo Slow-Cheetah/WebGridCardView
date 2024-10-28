@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebGridCardView</string>
+    <string name="tb_title">Мобильный браузер</string>
+    <string name="exit_text">Exit</string>
+</resources>
